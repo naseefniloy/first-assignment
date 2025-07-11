@@ -51,7 +51,7 @@
         /* Background Image for Navbar and Banner */
         .hero-section {
             background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
-                        url(../Assets/baner.jpg);
+                        url(../images/baner.jpg);
             background-size: cover;
             background-position: center;
         }
